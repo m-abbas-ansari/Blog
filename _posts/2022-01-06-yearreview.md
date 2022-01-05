@@ -1,6 +1,6 @@
 # The first 40 days.
 
-_This entry is for the purpose of journalling the progress made from end of Nov 2020 to end of Dec 2020. Beginners who are thinking of breaking into the field of Software devlopemnt or Deep Learning may find something useful here._
+_This entry is for  journalling the progress made from the end of Nov 2020 to the end of Dec 2020. Beginners who are thinking of breaking into the field of Software development or Deep Learning may find something useful here._
 
 Let me set the scene here: I took a study gap of a year after my 12th to prepare for JEE and got enough to get BTech CS at JMI. I drove to Delhi in the last week of October 2020 to complete the admission procedure in JMI. From my JEE exam in Jan 2020 to October 2020, I had given up studying anything related to science or engineering. It was an interesting period in which I spent most of the time learning Arabic, Islamic history, Qur'an and getting into Sufi mysticism. I returned home in mid-November 2020, realizing that I must start focusing on my career rather than just focusing on the afterlife.
 
