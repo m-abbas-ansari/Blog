@@ -41,7 +41,7 @@ You see a lake and can only see its surface. It looks beautiful and beckons you 
 
 From the psychological perspective, I essentially went through the first stage of the Dunning-Kruger effect multiple times.
 
-<img src="https://onlinepethealth.com/wp-content/uploads/2019/12/Dunning-Kruger.jpg" alt="Dunning-Kruger effect graph" style="margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://onlinepethealth.com/wp-content/uploads/2019/12/Dunning-Kruger.jpg" alt="Dunning-Kruger effect graph" style="margin-left: auto; margin-right: auto;">
 
 You underestimate the effort it will take to master a field and overestimate your competency initially. But soon as you start moving towards the valley of despair, you've understood the vastness of the field and how little you know. As a beginner, this is one of the most difficult things to pass through. I still think I'm in the valley of despair when it comes to deep learning after doing it for a whole year, but I've learned to become comfortable with it. It certainly takes a lot more time than a few months to master a skill.
 
