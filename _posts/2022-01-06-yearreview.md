@@ -32,8 +32,9 @@ I also began trying to understand data structures from platforms like [HackerRan
 
 By around the New year of 2021, I had tried my hand at different areas of CS and seemingly got overwhelmed with most of them.
 1. _Tried getting into web development_: uncreativity stopped me from building projects and having fun. 
-2. _Tried mathematics of CS_: Had quite a lot of fun with it, and still fascinated with it.
-3. _Tried CP_: realized that cp is not as easy as I thought, and gave up on it.
+2. _Tried AI_: weak skills in python, or you can say, low self-confidence with coding prevented me from doing CS50 AI.
+3. _Tried mathematics of CS_: Had quite a lot of fun with it, and still fascinated with it.
+4. _Tried CP_: realized that cp is not as easy as I thought, and gave up on it.
 
 Here is an analogy to summarize December 2020: 
 You see a lake and can only see its surface. It looks beautiful and beckons you to dive into it. Donning your swimming shorts, you run with exhilaration towards the lake. You're swimming in the shallows of the lake, having fun you've never had before. It motivates you to take a big breath and dive deep. You're convinced that you'll touch the bed of the lake in no time. You're going down, and down and down... but realize you're out of breath and that the lake can't be explored in one single dive. You swim back to the surface, disheartened and overwhelmed with the depth of the lake. As you swim out, you see in the distance another lake equally or more beautiful than the current one. And the cycle is repeated.
